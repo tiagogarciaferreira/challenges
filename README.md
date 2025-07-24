@@ -22,6 +22,7 @@ Explore a coleção de desafios disponível. Cada link direciona para um arquivo
 * [Desafio PicPay](https://github.com/tiagogarciaferreira/challenges/blob/main/picpay-challenge.md)
 * [Desafio Uber](https://github.com/tiagogarciaferreira/challenges/blob/main/uber-challenge.md)
 * [Desafio de Votação](https://github.com/tiagogarciaferreira/challenges/blob/main/voting-challenge.md)
+* [Desafio BTG Pactual](https://github.com/tiagogarciaferreira/challenges/blob/main/btg-pactual-challenge.md)
 
 ## 💡 Como Usar
 
