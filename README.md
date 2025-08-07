@@ -23,6 +23,7 @@ Explore a coleção de desafios disponível. Cada link direciona para um arquivo
 * [Desafio Uber](https://github.com/tiagogarciaferreira/challenges/blob/main/uber-challenge.md)
 * [Desafio de Votação](https://github.com/tiagogarciaferreira/challenges/blob/main/voting-challenge.md)
 * [Desafio BTG Pactual](https://github.com/tiagogarciaferreira/challenges/blob/main/btg-pactual-challenge.md)
+* [Desafio Gas Station](https://github.com/tiagogarciaferreira/challenges/blob/main/gas-station-challenge.md)
 
 ## 💡 Como Usar
 
